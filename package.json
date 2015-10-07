@@ -1,0 +1,16 @@
+{
+  "name": "app-store-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "httpreq": "^0.4.13",
+    "jsonfile": "^2.2.2",
+    "searchitunes": "^2.1.1"
+  }
+}
